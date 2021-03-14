@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/sajadevo/material-ripple.git"
   },
+  "keywords": [
+    "material design",
+    "ripple effect",
+    "material-ripple",
+    "ripple"
+  ],
   "author": "Sajad Ahmad Nawabi",
   "license": "MIT",
   "bugs": {
