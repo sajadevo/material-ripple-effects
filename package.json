@@ -1,7 +1,7 @@
 {
   "name": "material-ripple-effects",
   "version": "1.0.0",
-  "description": "Material Design Ripple Effect",
+  "description": "Material Design Ripple Effects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
   "author": "Sajad Ahmad Nawabi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sajadevo/material-ripple/issues"
+    "url": "https://github.com/sajadevo/material-ripple-effects/issues"
   },
-  "homepage": "https://github.com/sajadevo/material-ripple#readme"
+  "homepage": "https://github.com/sajadevo/material-ripple-effects#readme"
 }
