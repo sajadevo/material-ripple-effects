@@ -1,9 +1,9 @@
 # material-ripple
-Material Design Ripple Effect.
+### Material Design Ripple Effect.
 
 material-ripple makes you able to have Material Design Ripple Effect on the elements you want.
 
-material-ripple comes with two colors:
+#### material-ripple comes with two colors:
 1. Light "data-ripple-light"
 2. Dark "data-ripple-dark"
 
