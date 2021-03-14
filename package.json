@@ -1,5 +1,5 @@
 {
-  "name": "@material-ripple",
+  "name": "@sajadevo/material-ripple",
   "version": "1.0.0",
   "description": "Material Design Ripple Effect",
   "main": "index.js",
