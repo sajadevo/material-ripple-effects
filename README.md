@@ -12,9 +12,10 @@ Install the material-ripple-effects from npm.
 
 ```
 npm i material-ripple-effects
+yarn add material-ripple-effects
 ```
 
-## Using NPM
+## Using NPM or Yarn
 1. Import the material-ripple-effects in to your project.
 
 ```
@@ -29,8 +30,10 @@ import "material-ripple-effects";
 
 export default function Button() {
   return (
-    <button data-ripple-light={true}>Material Ripple</button>
-    <button data-ripple-dark={true}>Material Ripple</button>
+    <>
+      <button data-ripple-light={true}>Material Ripple</button>
+      <button data-ripple-dark={true}>Material Ripple</button>
+    </>
   );
 }
 ```
