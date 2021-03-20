@@ -1,4 +1,4 @@
-export default class Ripple {
+module.exports = class Ripple {
   constructor() {
     this.x = 0;
     this.y = 0;
@@ -80,4 +80,4 @@ export default class Ripple {
 
     setTimeout(() => circle.remove(), 500);
   }
-}
+};
