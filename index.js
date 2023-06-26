@@ -50,6 +50,7 @@ module.exports = class Ripple {
       {
         duration: 500,
         easing: 'linear',
+        fill: 'forwards'
       },
     );
   }
