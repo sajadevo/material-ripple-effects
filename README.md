@@ -38,8 +38,8 @@ export default function Button() {
 
   return (
     <>
-      <button onMouseUp={(e) => ripple.create(e, 'light')>Material Ripple</button>
-      <button onMouseUp={(e) => ripple.create(e, 'dark')>Material Ripple</button>
+      <button onMouseUp={(e) => ripple.create(e, 'light')}>Material Ripple</button>
+      <button onMouseUp={(e) => ripple.create(e, 'dark')}>Material Ripple</button>
     </>
   );
 }
